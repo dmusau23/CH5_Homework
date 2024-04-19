@@ -1,11 +1,14 @@
-package Exercise2;
-
-/**
- * Poem.java
+/**Class: Poem
+ * @author Daniel Musau
+ * @version 1.0
+ * Course: ITEC 2150 Spring 2024
+ * Written: April 12, 2024
  *
  * A class representing information about a poem for use in Chapter 5 Exercise 2
  *
  */
+package Exercise3;
+
 public class Poem
 {
 
